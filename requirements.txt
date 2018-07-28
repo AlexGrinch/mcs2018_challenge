@@ -1,0 +1,11 @@
+numpy
+pandas
+pillow
+scikit-image
+tqdm
+zipfile36
+
+
+tensorflow-gpu
+keras==2.1.6
+
